@@ -15,7 +15,7 @@ public class Q1 {
         System.out.println("Number  SquareRoot");
         
         for(int i=0;i<=max;i++){
-            System.out.printf("%d \t %.4f\n" , i , "\t" ,Math.sqrt(i));
+            System.out.printf("%d \t %.4f\n" , i  ,Math.sqrt(i));
           
     }
 
